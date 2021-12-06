@@ -49,6 +49,6 @@ I got to refresh my knowledge on Flex and box-shadow, it was nice practicing it 
 
 ## Author
 
-- Website - [Okeoghene Eunice Igho](https://github.com/Igho-Okeoghenem)
+- Website - [Okeoghene Eunice Igho](https://github.com/Igho-Okeoghene)
 - Frontend Mentor - [@Igho-Okeoghene](https://www.frontendmentor.io/profile/Igho-Okeoghene)
 - Twitter - [@Eunicodes](https://www.twitter.com/eunicodes)
