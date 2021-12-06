@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Igho-Okeoghene/Single-Price-Component](https://github.com/Igho-Okeoghene/Single-Price-Component)
-- Live Site URL: [https://igho-okeoghene.github.io/Single-Price-Component/](https://your-live-site-url.com)
+- Live Site URL: [https://igho-okeoghene.github.io/Single-Price-Component/](https://igho-okeoghene.github.io/Single-Price-Component/)
 
 ### Built with
 
