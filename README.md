@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Igho-Okeoghene/Single-Price-Component](https://github.com/Igho-Okeoghene/Single-Price-Component)
+- Live Site URL: [https://igho-okeoghene.github.io/Single-Price-Component/](https://your-live-site-url.com)
 
 ### Built with
 
